@@ -13,11 +13,12 @@ class MyApp extends StatelessWidget {
         home: Scaffold(
           backgroundColor: Colors.blue,
           body: Container(
-            //blob
+            //blob bkdn
             decoration: BoxDecoration(
               shape: BoxShape.circle,
               image: DecorationImage(
                 fit: BoxFit.cover,
+                alignment: Alignment.center,
                 repeat: ImageRepeat.noRepeat,
                 image: Svg('images/blob.svg', size: Size(430, 430)),
                 colorFilter: ColorFilter.mode(
