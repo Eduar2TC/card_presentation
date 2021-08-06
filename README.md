@@ -3,4 +3,4 @@
 Flutter project.
 
 ## dragame screen capture
-![image](https://drive.google.com/uc?export=view&id=1UoIBaDMh254fSpvVmu802BojEWlNc7rb | width=300)
+<img src="https://drive.google.com/uc?export=view&id=1UoIBaDMh254fSpvVmu802BojEWlNc7rb" width="200" height="400" />
